@@ -3,6 +3,7 @@ i=0
   while i<array.lenght do
     if array[i] == value_to_find
       return i
+    end
       i += 1
     end
     nil
