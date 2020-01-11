@@ -5,7 +5,7 @@ i=0
       return i
       i += 1
     end
-    else nil
+    nil
 end
 
 def find_max_value(array)
