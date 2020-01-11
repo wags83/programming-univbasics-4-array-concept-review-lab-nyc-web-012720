@@ -4,8 +4,8 @@ i=0
     if array[i] == value_to_find
       return i
       i += 1
-  end
 else nil
+end
 end
 
 def find_max_value(array)
